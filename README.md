@@ -1,10 +1,12 @@
-### Oi,😑 Eu sou Marcos Henrique Oliveira da Silva.
-Tenho 17 anos, Atualmente estudo Análise e Desenvolvimento de Sistemas na Sptech.
+### Oi, Eu sou Marcos Henrique Oliveira da Silva.
 
-<!--
-**Marcos-Henriq/Marcos-Henriq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 💬 Tenho 17 anos, Atualmente estudo Análise e Desenvolvimento de Sistemas na Sptech.
 
-Here are some ideas to get you started:
+- 🚀 Interessado em:
+- https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white
+- https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
+- https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white
+- https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
