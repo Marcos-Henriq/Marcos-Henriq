@@ -1,4 +1,4 @@
-### Oi, Eu sou Marcos Henrique Oliveira da Silva.
+### Oi, Sou Marcos Henrique Oliveira da Silva.
 
 💬 Tenho 18 anos, Atualmente estudo Análise e Desenvolvimento de Sistemas na Sptech.
 
