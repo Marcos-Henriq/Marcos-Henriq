@@ -8,7 +8,11 @@
 <h3>⏳ 18 anos | 04.03.2004</h3>
 <h3>🎓 Formado em Desenvolvimento de Sistemas | Etec de Guaianases</h3>
 <h3>📘 Cursando Análise e Desenvolvimento de Sistemas | Sptech.</h3>
-<h3>🚀 Dev Back-End - Estágio | Box Delivery</h3>
+
+
+<h3 style="display:inline-block"><img height="30px"width="30px"src="https://i0.wp.com/teste708191542.wpcomstaging.com/wp-content/uploads/2022/05/Box-Delivery.png?fit=2000%2C2000&ssl=1"> Dev Back-End - Estágio | Box Delivery</h3>
+
+
 </div>
 <br>
 <div style="display:inline-block">
