@@ -4,7 +4,13 @@
 </span>
 <br>
 <div align="left">
-<h1> Oi, Sou Marcos Henrique. 🚀<br><h3> Tenho 18 anos, Atualmente estudo Análise e Desenvolvimento de Sistemas na Sptech. </h3></h1>
+<h1> Oi, Sou Marcos Henrique.<br></h1>
+<h3>⏳ 18 anos | 04.03.2004</h3>
+<h3>🎓 Formado em Desenvolvimento de Sistemas | Etec de Guaianases</h3>
+<h3>📘 Cursando Análise e Desenvolvimento de Sistemas | Sptech.</h3>
+<h3>🚀 Dev Back-End - Estágio | Box Delivery</h3><img align="right"src="https://c.tenor.com/ebsXZlhpxEQAAAAC/gon-freecss-hxh.gif" width="150px">
+</div>
+<div align="right">
 
 </div>
 <div>
