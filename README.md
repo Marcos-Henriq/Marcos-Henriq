@@ -6,8 +6,8 @@
 <br>
 <div align="left" style="display:inline-block">
 <h1> Oi, Sou Marcos Henrique.<br></h1>
-<h3>⏳ 18 anos | 04.03.2004</h3>
-<h3>🎓 Formado em Desenvolvimento de Sistemas | Etec de Guaianases</h3>
+<h3>⏳ 18 anos | 04.03.2004.</h3>
+<h3>🎓 Formado em Desenvolvimento de Sistemas | Etec de Guaianases.</h3>
 <h3>📘 Cursando Análise e Desenvolvimento de Sistemas | Sptech.</h3>
 
 
