@@ -2,6 +2,7 @@
 <span align="center">
 ## <img src="https://user-images.githubusercontent.com/56117129/180338279-b0b101f3-98fc-4883-ae4f-f3bc5faa2e04.png">
 </span>
+
 <br>
 <div align="left" style="display:inline-block">
 <h1> Oi, Sou Marcos Henrique.<br></h1>
@@ -14,6 +15,7 @@
 
 
 </div>
+<div align="center"> <a href="https://github.com/Marcos-Henriq"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Marcos-Henriq&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcos-Henriq&layout=compact&langs_count=7&theme=dark"/> </div>
 <br>
 <div style="display:inline-block">
 <h2>Tenho algum conhecimento e Aprendendo.</h2>
