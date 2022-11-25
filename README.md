@@ -20,7 +20,7 @@
 <br>
 <div style="display:inline-block">
 <h2>Tenho algum conhecimento e Aprendendo.</h2>
-<img src="https://skillicons.dev/icons?i=js,html,css,git,java,laravel,php,figma,mysql">
+<img src="https://skillicons.dev/icons?i=js,html,css,git,java,laravel,php,figma,mysql,bootstrap">
 <img align="right" src="https://c.tenor.com/ebsXZlhpxEQAAAAC/gon-freecss-hxh.gif" width="150px">
 </div>
 <div>
