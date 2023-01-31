@@ -4,8 +4,9 @@
 </span>
 
 <br>
-<div align="left" style="display:inline-block">
-<h1> Oi, Sou Marcos Henrique.<br></h1>
+<div align="left" style="">
+<h2> Oi  ...</h2>
+<h1>Sou Marcos Henrique.</h1>
 <h3>⏳ 18 anos | 04.03.2004.</h3>
 <h3>🎓 Formado em Desenvolvimento de Sistemas | Etec de Guaianases.</h3>
 <h3>📘 Cursando Análise e Desenvolvimento de Sistemas | Sptech.</h3>
@@ -18,8 +19,8 @@
 <div align="center"> <a href="https://github.com/Marcos-Henriq"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Marcos-Henriq&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcos-Henriq&layout=compact&langs_count=7&theme=dark"/> </div>
 <!--<img src="https://activity-graph.herokuapp.com/graph?username=Marcos-Henriq&bg_color=000000&color=edffff&line=00ffff&point=ffffff&area=true&hide_border=true&radius=11">-->
 <br>
-<div style="display:inline-block">
-<h2>Tenho algum conhecimento e Aprendendo.</h2>
+<div >
+<h2 align="center">Ferramentas/Linguagens Utilizadas em meus Projetos</h2>
 <img src="https://skillicons.dev/icons?i=js,html,css,git,java,laravel,php,figma,mysql,bootstrap">
 <img align="right" src="https://c.tenor.com/ebsXZlhpxEQAAAAC/gon-freecss-hxh.gif" width="150px">
 </div>
