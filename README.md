@@ -9,7 +9,7 @@
 <h1>Sou Marcos Henrique.</h1>
 <h3>⏳ 20 anos | 04.03.2004.</h3>
 <h3>🎓 Formado em Desenvolvimento de Sistemas | Etec de Guaianases.</h3>
-<h3>📘 Formado em Análise e Desenvolvimento de Sistemas | Sptech.</h3>
+<h3>📘 Graduado em Análise e Desenvolvimento de Sistemas | Sptech.</h3>
 
 
 <h3 style="display:inline-block"><img height="30px"width="30px"src="https://i0.wp.com/teste708191542.wpcomstaging.com/wp-content/uploads/2022/05/Box-Delivery.png?fit=2000%2C2000&ssl=1"> Desenvolvedor FullStack</h3>
