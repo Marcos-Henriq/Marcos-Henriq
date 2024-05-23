@@ -12,7 +12,7 @@
 <h3>📘 Formado em Análise e Desenvolvimento de Sistemas | Sptech.</h3>
 
 
-<h3 style="display:inline-block"><img height="30px"width="30px"src="https://i0.wp.com/teste708191542.wpcomstaging.com/wp-content/uploads/2022/05/Box-Delivery.png?fit=2000%2C2000&ssl=1"> Dev FullStack - Junior</h3>
+<h3 style="display:inline-block"><img height="30px"width="30px"src="https://i0.wp.com/teste708191542.wpcomstaging.com/wp-content/uploads/2022/05/Box-Delivery.png?fit=2000%2C2000&ssl=1"> Desenvolvedor FullStack</h3>
 
 
 </div>
