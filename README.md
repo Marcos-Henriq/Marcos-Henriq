@@ -12,17 +12,17 @@
 <h3>📘 Graduado em Análise e Desenvolvimento de Sistemas | Sptech.</h3>
 
 
-<h3 style="display:inline-block"><img height="30px"width="30px"src="https://i0.wp.com/teste708191542.wpcomstaging.com/wp-content/uploads/2022/05/Box-Delivery.png?fit=2000%2C2000&ssl=1"> Desenvolvedor FullStack</h3>
+<h3 style="display:inline-block">♨️ Desenvolvedor FullStack</h3>
 
 
 </div>
 <div align="center"> <a href="https://github.com/Marcos-Henriq"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Marcos-Henriq&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcos-Henriq&layout=compact&langs_count=7&theme=dark"/> </div>
-<!--<img src="https://activity-graph.herokuapp.com/graph?username=Marcos-Henriq&bg_color=000000&color=edffff&line=00ffff&point=ffffff&area=true&hide_border=true&radius=11">-->
+<img src="https://activity-graph.herokuapp.com/graph?username=Marcos-Henriq&bg_color=000000&color=edffff&line=00ffff&point=ffffff&area=true&hide_border=true&radius=11">
 <br>
 <div >
 <h2 align="center">Ferramentas/Linguagens Utilizadas em meus Projetos</h2>
 <img src="https://skillicons.dev/icons?i=php,js,ts,react,scss,git,java,laravel,figma,mysql,bootstrap,docker,kotlin,kafka">
-<img align="right" src="https://c.tenor.com/ebsXZlhpxEQAAAAC/gon-freecss-hxh.gif" width="150px">
+<!-- <img align="right" src="https://c.tenor.com/ebsXZlhpxEQAAAAC/gon-freecss-hxh.gif" width="150px"> -->
 </div>
 <div>
 
