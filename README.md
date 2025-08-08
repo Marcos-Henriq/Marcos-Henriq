@@ -22,7 +22,7 @@
 <div >
 <h2 align="center">Ferramentas/Linguagens Utilizadas em meus Projetos</h2>
 <img src="https://skillicons.dev/icons?i=php,js,ts,react,scss,git,java,laravel,figma,mysql,bootstrap,docker,kotlin,kafka">
-<!-- <img align="right" src="https://c.tenor.com/ebsXZlhpxEQAAAAC/gon-freecss-hxh.gif" width="150px"> -->
+<img align="right" src="https://c.tenor.com/ebsXZlhpxEQAAAAC/gon-freecss-hxh.gif" width="150px">
 </div>
 <div>
 
